@@ -1,0 +1,3 @@
+[submodule "Demonstrator"]
+	path = Demonstrator
+	url = https://github.com/dlr-ve-esy/DestinE_EnSys_Demonstrator

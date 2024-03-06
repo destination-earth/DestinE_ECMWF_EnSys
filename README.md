@@ -4,11 +4,13 @@ The Destination Earth Use Case Energy Systems is a joint activity of [DLR](https
  and the [Renewables Grid Initiative](https://renewables-grid.eu) with the aim to implement a representative Demonstrator for 
  the use of climate information in numerical energy systems models.
 
-This repository is work in progress. More info will follow soon.
+This repository is maintained by DLR in support of ECMWF‘s role in Destination Earth funded by the European Union. For comments and questions please contact: Bruno Schyska (<bruno.schyska@dlr.de>).
 
-Contact: <bruno.schyska@dlr.de>, <francesco.witte@dlr.de>
+## Content
+For the moment, this repository includes a reference to our [Demonstrator](https://github.com/dlr-ve-esy/DestinE_EnSys_Demonstrator/tree/c64da52d70e9a07718bf51aa5ec61f55a639d899). The publication of further developments for the sensitivity analysis of energy system models and for approaches to reduce the complexity of the models is planned.
 
 ## Further Information and References
+For further information on the Use Case please visit
 
 - [Use Case Homepage](https://stories.ecmwf.int/energy-systems-use-case/index.html)
 - [DLR's energy system model REMix](https://gitlab.com/dlr-ve/esy/remix/framework)
@@ -23,7 +25,7 @@ Please respect our [code of conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
-Copyright 2023 DLR
+Copyright 2023-2024 DLR
 
 Material published in this repository is licensed under the open source [MIT
 License](LICENSE).

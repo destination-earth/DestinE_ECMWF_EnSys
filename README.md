@@ -7,7 +7,7 @@ The Destination Earth Use Case Energy Systems is a joint activity of [DLR](https
 This repository is maintained by DLR in support of ECMWF‘s role in Destination Earth funded by the European Union. For comments and questions please contact: Bruno Schyska (<bruno.schyska@dlr.de>).
 
 ## Content
-For the moment, this repository includes a reference to our [Demonstrator](https://github.com/dlr-ve-esy/DestinE_EnSys_Demonstrator/tree/c64da52d70e9a07718bf51aa5ec61f55a639d899). The publication of further developments for the sensitivity analysis of energy system models and for approaches to reduce the complexity of the models is planned.
+For the moment, this repository includes a reference to our [Demonstrator](https://github.com/dlr-ve-esy/DestinE_EnSys_Demonstrator). The publication of further developments for the sensitivity analysis of energy system models and for approaches to reduce the complexity of the models is planned.
 
 For the Demonstrator we have also implemented a workflow to collect the data needed to build a simplified [European Resources Adequacy Assessment](https://www.entsoe.eu/outlooks/eraa/) from ENTSO-E websites, which can also be used stand-alone: [eraa-resources](https://github.com/dlr-ve-esy/eraa-resources).
 
